@@ -58,7 +58,7 @@ swiper3.0：http://www.swiper.com.cn/
                     ......//具体组图代码查看demo页面
                 </header>
                 <div class="swiper-container gallery-top" id="gallery-top1">//此处的id必须为gallery-top+数字
-                    <div class="swiper-wrapper">    
+                    <div class="swiper-wrapper">
                         ......//具体组图代码查看demo页面
                     </div>
                     <div class="swiper-button-next swiper-button-white" title="下一张"></div>
@@ -72,10 +72,10 @@ swiper3.0：http://www.swiper.com.cn/
                 ......//具体组图代码查看demo页面
             </div>
     </div>
-</div>    
+</div>
 ```
 ###2、demo
-* [高清组图demo](http://192.168.14.97:8080/plugin/photoGallery)
+* [高清组图demo](http://192.168.14.97:8080/acc/plugin/photoGallery)
 
 ##配置和API
 ###1、配置
