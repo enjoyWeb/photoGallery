@@ -12,6 +12,7 @@ swiper3.0：http://www.swiper.com.cn/
 
 ###1、使用步骤
 * 引入样式文件（photoGallery.css，swiper.css，font-awesome.min.css）
+* 文件夹内要放入字体集FontAwesome，及font文件夹
 
 ```javascript
 <link href="style/photoGallery.css" rel="stylesheet" type="text/css" />
