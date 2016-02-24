@@ -6,7 +6,8 @@ $(function(){
 			$('body').css('overflow','hidden');
 			var t = $(document).scrollTop();
 	        _this.find('.gallery .close').unbind('click');
-			new picSwiper('#'+_this.find('.gallery')[0].id,_this.parent().parent().index()+1,t,{});
+			console.log(_this.parent().parent().index());
+			new picSwiper('#'+_this.find('.gallery')[0].id,$(this).parent().index()+1,t,{});
 		});
 	});
 })
